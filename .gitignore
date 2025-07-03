@@ -1,0 +1,5 @@
+# 模块缓存
+*/go.sum
+*/vendor/
+*/.idea/
+*/.vscode/
